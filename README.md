@@ -1,7 +1,6 @@
 # Deep-Reinforcement-Learning-Q Network
 
-![Watch the video](https://github.com/phaniram-sayapaneni/Deep-Reinforcement-Learning-Demon-Attack/blob/master/episode-2.gif =500x500)
-
+<img src="https://github.com/phaniram-sayapaneni/Deep-Reinforcement-Learning-Demon-Attack/blob/master/episode-2.gif" width="600" height="900">
 
 **Game configurations:**
 Demon Attack
