@@ -1,7 +1,5 @@
 # Deep-Reinforcement-Learning-Q Network
 
-<img src="https://github.com/phaniram-sayapaneni/Deep-Reinforcement-Learning-Demon-Attack/blob/master/episode-2.gif" width="600" height="900">
-
 **Game configurations:**
 Demon Attack
 
@@ -37,3 +35,6 @@ Number of episodes played: 10
 
 **Using Nvidia GPU: Ge Force GTX.
 Allocated GPU memory for training 10 GB**
+
+
+<img src="https://github.com/phaniram-sayapaneni/Deep-Reinforcement-Learning-Demon-Attack/blob/master/episode-2.gif" width="600" height="900">
