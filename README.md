@@ -34,5 +34,6 @@ Interaction:
 Make random actions initially to fill the experience replay buffer and then learn from these experiences.
 
 Number of episodes played: 10
+
 **Using Nvidia GPU: Ge Force GTX.
 Allocated GPU memory for training 10 GB**
